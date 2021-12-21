@@ -1,0 +1,32 @@
+.container {
+    max-width: $max_width;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+}
+
+.center-block {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center-content {
+    text-align: center;
+}
+
+@for $i from 1 to 20 {
+    .s-#{$i * 5} {
+        width: #{$i * 5%};
+    }
+}
+
+@include mq (l) {
+    @for $i from 1 to 20 {
+        .l-#{$i * 5} {
+            width: #{$i * 5%};
+        }
+    }
+}

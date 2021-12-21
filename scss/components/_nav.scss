@@ -1,0 +1,27 @@
+.main-header__nav {
+    width: 70%;
+
+
+    @include mq(600px) {
+        width: 50%;
+    }
+
+    @include mq(w) {
+        width: 30%;
+    }
+}
+
+.main-header__menu {
+    width: auto;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: var(--h2-font-size);
+    color: white;
+    cursor: pointer;
+
+
+}
+
+.sub {
+    border-bottom: solid 3px white;
+}

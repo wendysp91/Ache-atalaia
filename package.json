@@ -1,0 +1,25 @@
+{
+  "name": "ache-atalaia",
+  "version": "1.0.0",
+  "description": "Restaurant ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabreramarlon27/ache-atalaia.git"
+  },
+  "keywords": [
+    "Restaurant",
+    "Food",
+    "Lisboa",
+    "Portugal"
+  ],
+  "author": "Wendy Suarez Pena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cabreramarlon27/ache-atalaia/issues"
+  },
+  "homepage": "https://github.com/cabreramarlon27/ache-atalaia#readme"
+}

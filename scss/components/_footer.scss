@@ -1,0 +1,19 @@
+.footer {
+    background-color: black;
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 200vh;
+
+
+    h2,
+    p,
+    address {
+        color: white;
+    }
+
+}

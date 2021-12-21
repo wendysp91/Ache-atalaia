@@ -1,0 +1,33 @@
+.main-header {
+    background-color: black;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    @include mq(960px) {
+        height: 100vh;
+
+    }
+
+    &__logo {
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
+
+
+
+        @include mq(w) {
+            width: 60%;
+            height: 90%;
+
+        }
+
+    }
+
+    a {
+        color: white;
+    }
+
+}

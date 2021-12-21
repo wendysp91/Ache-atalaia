@@ -1,0 +1,346 @@
+[{
+        "id": 1,
+        "nombre": "pão - pan - bread - pain",
+        "categoria": "appetizer",
+        "precio": "1,50€",
+        "imagen": "1.jpeg"
+    }, {
+        "id": 2,
+        "nombre": "pãomanteiga,azeitonas-pan,mantequilla,aceitunas- bread,butter,olives-pain,beurre, olives",
+        "categoria": "appetizer",
+        "precio": "3,00€",
+        "imagen": "2.jpeg"
+    }, {
+        "id": 3,
+        "nombre": "sopa,soup,la soupe",
+        "categoria": "appetizer",
+        "precio": "3,50€",
+        "imagen": "3.jpeg"
+    }, {
+        "id": 4,
+        "nombre": "pimentos padrão - pimientos padron - peppers - petit polvrons",
+        "categoria": "appetizer",
+        "precio": "3,50€",
+        "imagen": "4.jpeg"
+    }, {
+        "id": 5,
+        "nombre": "chip de mandioca - chips de yuca - fried banana - chips manioc",
+        "categoria": "appetizer",
+        "precio": "2,50€",
+        "imagen": "5.jpeg"
+    }, {
+        "id": 6,
+        "nombre": "banana frita - chicharritas - fried banana - banane frite",
+        "categoria": "appetizer",
+        "precio": "2,50€",
+        "imagen": "6.jpeg"
+    }, {
+        "id": 7,
+        "nombre": "nachos(molhos:guacamole,  tomate,queijo)(salsas:guacamoles,tomate, quesos,)(sauces:guacamole,tomate, cheese)(sauces:guacamole,tomato, fromage)",
+        "categoria": "appetizer",
+        "precio": "4,00€",
+        "imagen": "7.jpeg"
+    }, {
+        "id": 8,
+        "nombre": "pão de alho - pan de ajo - garlic bread - pain au ail",
+        "categoria": "appetizer",
+        "precio": "2,50€",
+        "imagen": "8.jpeg"
+    }, {
+        "id": 9,
+        "nombre": "pão de alho(queijo e bacon) - pan de ajo(queso y baicon) - garlic bread(cheese and bacon) - pain au ail(fromage et fromage)",
+        "categoria": "appetizer",
+        "precio": "3,80€",
+        "imagen": "9.jpeg"
+    }, {
+        "id": 10,
+        "nombre": "pão de alho(queijo e cogumelo) - pan de ajo(queso y champiñones) - garlic bread(cheese and mushooms) - pain au ail(champignons et fromage)",
+        "categoria": "appetizer",
+        "precio": "3,80€",
+        "imagen": "10.jpeg"
+    }, {
+        "id": 11,
+        "nombre": "salada caprese - ensalada caprese - caprese salad - salade caprese",
+        "categoria": "appetizer",
+        "precio": "5,00€",
+        "imagen": "11.jpeg"
+    }, {
+        "id": 12,
+        "nombre": "salada de polvo - ensalada de pulpo - octopus salad - salade de poulpe",
+        "categoria": "appetizer",
+        "precio": "6,50€",
+        "imagen": "12.jpeg"
+    }, {
+        "id": 13,
+        "nombre": "camarão com molho agridoce - camarón con salsa agridulce - sweet and sour prawns - crevettes avec la sauce agridoux",
+        "categoria": "appetizer",
+        "precio": "9,80€",
+        "imagen": "13.jpeg"
+    }, {
+        "id": 14,
+        "nombre": "camarão com alho - camarones al ajillo - garlic prawns - crevettes au ail",
+        "categoria": "appetizer",
+        "precio": "9,80€",
+        "imagen": "14.jpeg"
+    }, {
+        "id": 15,
+        "nombre": "cogumelo recheado com legumes - champiñones rellenos con verduras - stuffed mushrooms with vegetables - champignons farci avec legumes",
+        "categoria": "appetizer",
+        "precio": "6,00€€",
+        "imagen": "15.jpeg"
+    }, {
+        "id": 16,
+        "nombre": "cogumelo recheado com bacon - champiñones rellenos con baicon - stuffed mushrooms with bacon - champighons farci avec bacon",
+        "categoria": "appetizer",
+        "precio": "6,00€",
+        "imagen": "16.jpeg"
+    }, {
+        "id": 17,
+        "nombre": "cogumelo recheado com bacalhau - champiñones rellenos con bacalao - stuffed mushrooms with codfish - champignons farci avec  morue",
+        "categoria": "appetizer",
+        "precio": "6,00€",
+        "imagen": "17.jpeg"
+    }, {
+        "id": 18,
+        "nombre": "queijo gratinado com mel e nozes - queso gratinado con miel  y nueces - grilled cheese with honey and nuts",
+        "categoria": "appetizer",
+        "precio": "4,50€",
+        "imagen": "18.jpeg"
+    }, {
+        "id": 19,
+        "nombre": "brusqueta de tomatina - bruschetta with tomato - brusqueta avec tomato",
+        "categoria": "appetizer",
+        "precio": "3,90€",
+        "imagen": "19.jpg"
+    }, {
+        "id": 20,
+        "nombre": "brusqueda de azeitonas e mozarella - brusqueta de aceitunas y mozarella - bruscheta of olives and mosarela - brusqueta aux olive set mosarella",
+        "categoria": "appetizer",
+        "precio": "3,90€",
+        "imagen": "20.jpeg"
+    }, {
+        "id": 21,
+        "nombre": "brusqueta de creme de queijo e salmão - brusqueta de queso de crema y salmon - bruscheta of cream cheese and salmon - brusqueta aux saumon e creme de fromage",
+        "categoria": "appetizer",
+        "precio": "4,00€",
+        "imagen": "21.jpeg"
+    }, {
+        "id": 22,
+        "nombre": "brusqueta de presunto parmesão - brusqueta de jamon y parmesano - brusqueta of parmesan and ham - brusqueta aux jambon et parmeson",
+        "categoria": "appetizer",
+        "precio": "4,00€",
+        "imagen": "22.jpeg"
+    }, {
+        "id": 23,
+        "nombre": "brusqueta de queijo brie e doce - brusqueta de queso brie y dulce - bruscheta of brie and weest cheese - brusqueta aux fromage e doux",
+        "categoria": "appetizer",
+        "precio": "3.90€",
+        "imagen": "23.jpeg"
+    }, {
+        "id": 24,
+        "nombre": "brusqueta mixta - mixed bruscheta",
+        "categoria": "appetizer",
+        "precio": "5,50€",
+        "imagen": "24.jpeg"
+    }, {
+        "id": 25,
+        "nombre": "chouriço assado no forno - chorizo asado en el horno - roasted sausage - chorizo au four",
+        "categoria": "appetizer",
+        "precio": "4,00€",
+        "imagen": "25.jpeg"
+    }, {
+        "id": 26,
+        "nombre": "salchicha toscana - salsicha toscana - toscana sausage - saussice toscana",
+        "categoria": "appetizer",
+        "precio": "4,50€",
+        "imagen": "26.jpeg"
+    }, {
+        "id": 27,
+        "nombre": "asas de fango - alas de pollo - chicken wings - ailes de poulet",
+        "categoria": "appetizer",
+        "precio": "4,50€",
+        "imagen": "27.jpeg"
+    }, {
+        "id": 28,
+        "nombre": "entremeada - chicharon de cerdo en el horno - pork meat  - entrelardeé de porc ",
+        "categoria": "appetizer",
+        "precio": "4,50€",
+        "imagen": "28.jpeg"
+    }, {
+        "id": 29,
+        "nombre": "bolinha de alheira - bolitas de alheira - alheira croquette - croquettes au alheira",
+        "categoria": "appetizer",
+        "precio": "3,00€",
+        "imagen": "29.jpeg"
+    }, {
+        "id": 30,
+        "nombre": "aros de lulas e cebolas panados - aros de calamares y cebolla empanisada - squid rings and onion rings - calamars et rondelles ď oignon",
+        "categoria": "appetizer",
+        "precio": "3,90€",
+        "imagen": "30.jpeg"
+    }, {
+        "id": 31,
+        "nombre": "pastel de bacalhau - pastel de bacalao - fried ball of codfish - croquettes de Moure",
+        "categoria": "appetizer",
+        "precio": "4,00€",
+        "imagen": "31.jpeg"
+    }, {
+        "id": 32,
+        "nombre": "pernas de caranguejo - piernas de cangrejo - crab legs - pattes de crabes",
+        "categoria": "appetizer",
+        "precio": "3,90€",
+        "imagen": "32.jpeg"
+    }, {
+        "id": 33,
+        "nombre": "camarãos panados - camarones empanisados - prawns in breadcrumbs - crevettes panè",
+        "categoria": "appetizer",
+        "precio": "4,90€",
+        "imagen": "33.jpeg"
+    }, {
+        "id": 35,
+        "nombre": "misto de mariso - mixto de marisco - seafood mix - mix de fruits du mer",
+        "categoria": "appetizer",
+        "precio": "8,50€",
+        "imagen": "35.jpeg"
+    }, {
+        "id": 36,
+        "nombre": "tiborna de bacalhau - tiborna de bacalao - codfish over toasted olive oil - tiborna de morue",
+        "categoria": "appetizer",
+        "precio": "4,50€",
+        "imagen": "36.jpeg"
+    }, {
+        "id": 37,
+        "nombre": "tiborna de sardinha - tiborna de sardina - sardine over toasted olive oil - tiborna de sardine",
+        "categoria": "appetizer",
+        "precio": "4,50€",
+        "imagen": "37.jpeg"
+    }, {
+        "id": 38,
+        "nombre": "atalaia de legumes - atalaia de vegetales - vegetables atalaia",
+        "categoria": "appetizer",
+        "precio": "5,50€",
+        "imagen": "38.jpeg"
+    }, {
+        "id": 39,
+        "nombre": "atalai de bacalhau - atalaia de bacalao - codfish atalaia - atalaia de morue",
+        "categoria": "appetizer",
+        "precio": "6,50€",
+        "imagen": "39.jpeg"
+    }, {
+        "id": 40,
+        "nombre": "wrap de atum - wrap de atun - tuna wrap - wrap de thon",
+        "categoria": "appetizer",
+        "precio": "3,90€",
+        "imagen": "40.jpeg"
+    }, {
+        "id": 41,
+        "nombre": "wrap de salmão - wrap de salmón - salmon wrap",
+        "categoria": "appetizer",
+        "precio": "4,50€",
+        "imagen": "41.jpeg"
+    }, {
+        "id": 42,
+        "nombre": "tábua de enchidos - tabla de embutidos - mixed sausages - saucisses mixtes",
+        "categoria": "appetizer",
+        "precio": "8,50€",
+        "imagen": "42.jpeg"
+    }, {
+        "id": 43,
+        "nombre": "tábua de queijos - tabla de quesos - mixede cheese - mélange de fromage",
+        "categoria": "appetizer",
+        "precio": "8,50€",
+        "imagen": "43.jpeg"
+    },
+    {
+        "id": 44,
+        "nombre": "tábua mista - tabla mixta - mixed plate - assiette mixte",
+        "categoria": "appetizer",
+        "precio": "9,00€",
+        "imagen": "44.jpeg"
+    }, {
+        "id": 45,
+        "nombre": "espetada de perú - brochetas de pavo - turkey kebabs - brochette de dinde",
+        "categoria": "appetizer",
+        "precio": "5,00€",
+        "imagen": "45.jpeg"
+    }, {
+        "id": 46,
+        "nombre": "buchechas de porco com vinho do porto - carrillera de cerdo con vino de porto - pork cheeks in port wine - joue de porc",
+        "categoria": "meals",
+        "precio": "10,90€",
+        "imagen": "46.jpeg"
+    }, {
+        "id": 48,
+        "nombre": "ropa velha(típico cubano) - ropa vieja(cuban plate)(nourriture cubaine)",
+        "categoria": "meals",
+        "precio": "9,90€",
+        "imagen": "48.jpeg"
+    }, {
+        "id": 49,
+        "nombre": "lombo de bacalhau no forno - lomo de bacalao en el horno - codfish in the oven - filet de morue",
+        "categoria": "meals",
+        "precio": "13,50€",
+        "imagen": "49.jpeg"
+    }, {
+        "id": 50,
+        "nombre": "courgette gratinado e recheado com legumes - calabacín gratinado y relleno con vegetales - gratin courgette stuffed with vegetables - courgette grillé farci avec legumes",
+        "categoria": "meals",
+        "precio": "8,00€",
+        "imagen": "50.jpeg"
+    }, {
+        "id": 51,
+        "nombre": "bife da vazia com molho atalaia - filete vacio con salsa atalaia - sirloin steak with atalaia sauce - steak vide avec sauce atalaia",
+        "categoria": "meals",
+        "precio": "12,00€",
+        "imagen": "51.jpeg"
+    }, {
+        "id": 52,
+        "nombre": "batata gratinada - gratin potato - gratin de pommes du terre",
+        "categoria": "meals",
+        "precio": "3,50€",
+        "imagen": "52.jpeg"
+    }, {
+        "id": 53,
+        "nombre": "arroz congris - congris rice - ris congris",
+        "categoria": "meals",
+        "precio": "2,00€",
+        "imagen": "53.jpeg"
+    }, {
+        "id": 54,
+        "nombre": "salada de tomate e queijo de cabra - ensalada de tomate y queso de cabra - tomato and goat Cleese salad - salade de tomates et fromage de chévre",
+        "categoria": "meals",
+        "precio": "2,50€",
+        "imagen": "54.jpeg"
+    }, {
+        "id": 55,
+        "nombre": "salada mista - ensalada mixta - mixed salad - salade mixte",
+        "categoria": "meals",
+        "precio": "2,00€",
+        "imagen": "55.jpeg"
+    }, {
+        "id": 56,
+        "nombre": "batata frita -french frie - pommes du terre frites",
+        "categoria": "meals",
+        "precio": "2,50€",
+        "imagen": "56.jpeg"
+    }, {
+        "id": 57,
+        "nombre": "tiramisú",
+        "categoria": "dessert",
+        "precio": "4,50€",
+        "imagen": "57.jpeg"
+    }, {
+        "id": 58,
+        "nombre": "petit gateau(bolo de chocolate com gelado) - (pastel de chocolate con bola de helado) - (chocolat cake whith ice cream)",
+        "categoria": "dessert",
+        "precio": "4,50€",
+        "imagen": "58.jpeg"
+    }, {
+        "id": 59,
+        "nombre": "tábua de enchidos - tabla de embutidos - mixed sausages - saucisses mixtes",
+        "categoria": "dessert",
+        "precio": "8,50€",
+        "imagen": "59.jpeg"
+    }
+
+]
